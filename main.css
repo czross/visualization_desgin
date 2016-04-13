@@ -3,6 +3,10 @@ h1 {
 }
 
 div {
-    width: 1200px;
-    padding-left: 50px;
+    padding-left: 20px;
+    align-content: center;
+}
+
+p {
+    align-content: center;
 }
