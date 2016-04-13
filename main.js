@@ -108,10 +108,11 @@ $(function() {
     var layout2 = {
         yaxis: {
             type: "log",
-            title: "Neomycin"
+            title: "Neomycin (MCI)"
         },
         xaxis: {
-            title: "Streptomycin"
+            type: "log",
+            title: "Streptomycin (MCI)"
         },
         title: "Relation between Gram Staining and effectiveness"
     }
